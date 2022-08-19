@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../DeepLearning - AI/DeepLearning_AI/2- Deep Learning Speciaization/5- Sequence Model/.idea/5- Sequence Model.iml" filepath="$PROJECT_DIR$/../../../DeepLearning - AI/DeepLearning_AI/2- Deep Learning Speciaization/5- Sequence Model/.idea/5- Sequence Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Kaggle/Hyper tunning notebook/.idea/Hyper tunning notebook.iml" filepath="$PROJECT_DIR$/../../../Kaggle/Hyper tunning notebook/.idea/Hyper tunning notebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Season 5/1- Machine Learning - 6341/Labs/lab 4/.idea/Lab 4.iml" filepath="$PROJECT_DIR$/../../../../Season 5/1- Machine Learning - 6341/Labs/lab 4/.idea/Lab 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Machine Learning Explanability/ML_Explainability/.idea/ML_Explainability.iml" filepath="$PROJECT_DIR$/../../../Machine Learning Explanability/ML_Explainability/.idea/ML_Explainability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TimeSeries_MultiVariate_Sales_Prediction.iml" filepath="$PROJECT_DIR$/.idea/TimeSeries_MultiVariate_Sales_Prediction.iml" />
+    </modules>
+  </component>
+</project>
